@@ -12,10 +12,11 @@
             }
         }
     }
+    import '../style.css'
 </script>
 
 <style>
-    html{
+    /*html{
         background: red;
-    }
+    }*/
 </style>
